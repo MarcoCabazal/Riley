@@ -1,5 +1,5 @@
 platform :ios, '11.0'
-source "git@gitlab.com:MarcoCabazal/Specs"
+source "git@github.com:MarcoCabazal/Specs"
 
 target 'Master' do
   use_frameworks!
